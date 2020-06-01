@@ -209,11 +209,13 @@ html {
 }
 
 footer {
-  position: sticky;
-  height: 20vw;
-  background-color: #202020;
-  border-top: #999 solid 3px;
-  top: 0vw;
+    position: relative;
+    height: 20vw;
+    background-color: #202020;
+    border-top: #999 solid 3px;
+    bottom: 0vw;
+    width: 100%;
+    padding-bottom: 0px;
 }
 
 .fb {
