@@ -211,7 +211,7 @@ html {
 footer {
     position: relative;
     height: 20vw;
-    display: inline-block;
+    display: inline-block!important;
     background-color: #202020;
     border-top: #999 solid 3px;
     bottom: 0vw;
