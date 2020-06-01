@@ -83,7 +83,7 @@ html {
 
 #barra {
   margin-top: 0px;
-  padding: 17.2vw;
+  padding: 7.2vw 17vw;
   background: #3a7bd5;
   color: #fff;
   text-align: center;
@@ -123,23 +123,6 @@ html {
   color: #fff;
   height: 60.6vw;
 }
-/* .projetos::after {
-  content: "";
-  align-items: center;
-  padding-top: 30%;
-  padding-left: 20%;
-  padding-right: 20%;
-  background: #ee7c04;
-  background: linear-gradient(90deg, rgba(238, 124, 4, 0.3347923642) 0%, rgba(255, 113, 0, 0.3656046891) 100%);
-  position: relative;
-  width: 62.6vw;
-  height: 100%;
-  display: block;
-  top: 182%;
-  left: 30%;
-  transform: translateY(50% 50%);
-  border-top: transparent solid 100px;
-} */
 
 .bandeiras {
   position: absolute;
